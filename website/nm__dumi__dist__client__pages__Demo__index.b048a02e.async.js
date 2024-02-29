@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_oneui_docs=self.webpackChunk_oneui_docs||[]).push([[9],{65149:function(i,n,e){e.r(n),e.d(n,{default:function(){return d}});var o=e(83026),t=e(67294),u=function(){var r=(0,o.UO)(),s=r.id,m=(0,o.WF)(),c=m.demos,f=c[s]||{},a=f.component;return a&&(0,t.createElement)(a)},d=u}}]);
