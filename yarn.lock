@@ -3741,6 +3741,16 @@ dumi-assets-types@2.0.0-alpha.0:
   resolved "https://registry.npmmirror.com/dumi-assets-types/-/dumi-assets-types-2.0.0-alpha.0.tgz#46bf619ed1cb6d27bbe6a9cfe4be51e5e9589981"
   integrity sha512-a/Y5lf0G6gwsEQ9hop/n03CcjmHsGBk384Cz/AEX6mRYrfSpUx/lQvP9HLoXkCzScl9PL1sSmLPnMkgaXDCZLA==
 
+dumi-theme-mobile@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.npmmirror.com/dumi-theme-mobile/-/dumi-theme-mobile-2.1.2.tgz#77a4b8af8cbedb638657973e6f391127467b0dc6"
+  integrity sha512-7ESChhly/qQCQP1MsP0jbQrV8NdNPs1UGbJfcySCP3mGvEtqsNT6h7pRTMVbKay/N60JvdlNwBKL24W3NOlmcw==
+  dependencies:
+    "@ant-design/icons-svg" "^4.2.1"
+    f2-touchemulator "^0.0.1"
+    qrcode.react "^3.1.0"
+    umi-hd "^5.0.1"
+
 dumi@^2.2.13:
   version "2.2.17"
   resolved "https://registry.npmmirror.com/dumi/-/dumi-2.2.17.tgz#eaddded7a01db924dfcf3a2d71f86c83959758d7"
@@ -4365,6 +4375,11 @@ external-editor@^3.0.3:
     chardet "^0.7.0"
     iconv-lite "^0.4.24"
     tmp "^0.0.33"
+
+f2-touchemulator@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmmirror.com/f2-touchemulator/-/f2-touchemulator-0.0.1.tgz#1ac82b9bda26f1a8dd0585a5366471d0a284c0ef"
+  integrity sha512-dL2EqGgRFjePteQHMqvZ6UkNO357KcLbsuPqhs/Y9aCP8UBBGrHyTCrtnF38eoWY5ukfMqCNM0qpuggVybCPNQ==
 
 fast-deep-equal@^3.1.1:
   version "3.1.3"
@@ -8351,6 +8366,11 @@ q@^1.1.2:
   resolved "https://registry.npmmirror.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==
 
+qrcode.react@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.npmmirror.com/qrcode.react/-/qrcode.react-3.1.0.tgz#5c91ddc0340f768316fbdb8fff2765134c2aecd8"
+  integrity sha512-oyF+Urr3oAMUG/OiOuONL3HXM+53wvuH3mtIWQrYmsXoAq0DkvZp2RYUWFSMFtbdOpuS++9v+WAkzNVkMlNW6Q==
+
 qs@^6.11.2:
   version "6.11.2"
   resolved "https://registry.npmmirror.com/qs/-/qs-6.11.2.tgz#64bea51f12c1f5da1bc01496f48ffcff7c69d7d9"
@@ -10051,6 +10071,11 @@ types-ramda@^0.29.4:
   version "5.3.3"
   resolved "https://registry.npmmirror.com/typescript/-/typescript-5.3.3.tgz#b3ce6ba258e72e6305ba66f5c9b452aaee3ffe37"
   integrity sha512-pXWcraxM0uxAS+tN0AG/BF2TyqmHO014Z070UsJ+pFvYuRSq8KH8DmWpnbXe0pEPDHXZV3FcAbJkijJ5oNEnWw==
+
+umi-hd@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.npmmirror.com/umi-hd/-/umi-hd-5.0.1.tgz#59061d3f4aad70491b7c853525aced91afbe1e21"
+  integrity sha512-NFTTzrJArwdqtwZRNo5rF7F+NR95unQUAMkHAgcOGuuaJBnUey5w7lgpDR6K7/mV1bDwY2O3CLXSyLR1wxZyCw==
 
 umi@^4.0.84:
   version "4.1.2"
